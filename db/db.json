@@ -1,0 +1,37 @@
+{
+  "quiz" : [ null, {
+    "category" : "animal",
+    "correct_word_1" : "ネコの鳴き声",
+    "correct_word_2" : "",
+    "correct_word_3" : "",
+    "file" : "cat.mp3",
+    "level" : "3",
+    "name" : "ネコの鳴き声"
+  }, {
+    "category" : "animal",
+    "correct_word_1" : "イヌの鳴き声",
+    "correct_word_2" : "",
+    "correct_word_3" : "",
+    "file" : "dog.mp3",
+    "level" : "3",
+    "name" : "イヌの鳴き声"
+  }, {
+    "category" : "life",
+    "correct_word_1" : "ドアをノック",
+    "correct_word_2" : "",
+    "correct_word_3" : "",
+    "file" : "door_knock.mp3",
+    "level" : "3",
+    "name" : "ドアをノック"
+  } ],
+  "user" : {
+    "-L2doPVh6ei9NioTy32d" : {
+      "acttive_flg" : 0,
+      "correct_flg" : 0,
+      "ng_flg" : 0,
+      "quiz_no" : 1,
+      "session_id" : "dummy",
+      "updt_ymd" : "dummy"
+    }
+  }
+}
