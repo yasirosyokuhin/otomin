@@ -6,7 +6,7 @@ Google Assistantアプリとして公開している「音民」のプログラ�
 * Firebase functionで動作します。
 * DialogFlowのAPIバージョンはV1になります。
 * Firebase Realtime Databaseを使用しています。
-  * DBスキーマは/eeee/eeeeにあります。
+  * DBスキーマはdb/db.json になります。
 
 ## License
 自由に利用して問題ありませんが、本プログラムにより生じた損失については保証はできませんのでご理解の上、使用ください。
